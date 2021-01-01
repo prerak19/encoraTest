@@ -1,0 +1,60 @@
+.content {
+    width: 60%;
+    float: left;
+    margin-left: 40%;
+}
+.c-box {
+    min-height: 484px;
+    padding-top: calc((100vh - 548px) / 2);
+}
+.box {
+    max-width: 450px;
+    margin: 0 auto;
+    display: block;
+    height: calc(100vh - 65px);
+    padding-top: calc((100vh - 450px) / 2);
+    min-height: 450px;
+}
+.error {
+    color: red;
+    margin-top: 5px;
+    font-size: 13px;
+  }
+  .notesContainer{
+    max-width: 1250px;
+    margin: 0 auto;
+    display: block;
+      border: 1px solid lightgray;
+  }
+  .heading{
+      padding: 10px;
+      background-color:#f7f7f7;
+      border-bottom: 1px solid lightgray;
+  }
+  .leftBlock{
+    border-right: 1px solid lightgray;
+  }
+  .leftBlockDetail{
+      border-bottom:1px solid lightgray;
+  }
+  .leftBlockDetail:hover{
+      background-color: lightgray;
+      cursor: pointer;
+  }
+  .leftBlockDetail i {
+      cursor: pointer;
+      color: #797474;
+  }
+  .leftBlockDetail .leftTitle{
+      font-size: 24px;
+      font-weight: 500;
+      color: #666767;
+  }
+  .leftBlockDetail .leftBody{
+    color: #666767;
+}
+  .addBtn{
+      background-color: #fff !important;
+      color: #000 !important;
+      font-size: 18px !important;
+  }
