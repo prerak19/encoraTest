@@ -1,9 +1,9 @@
 # Welcome to ENCORA TEST
 # Login Credentials ===> 
 
-# userName==> encoraTest
+userName==> encoraTest
 
-# password ==> 123456
+password ==> 123456
 
 
 ## Available Scripts
